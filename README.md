@@ -4,7 +4,7 @@
 College students often struggle to manage their transportation schedules with the school shuttle service. This challenge arises because shuttle schedules are not tailored to individual class times or living locations, leading to missed classes, unnecessary waiting times, or confusion about stop timings. Existing solutions, like static shuttle timetables or generic apps, fail to consider personalized student schedules or provide real-time updates for events and off-cycle routes. This inefficiency can result in increased stress, wasted time, and reduced academic focus for students.
 
 
-# Project Description
+## Project Description
 
 **ShuttleSmart** is a personalized shuttle scheduling app designed to optimize transportation for college students. By syncing with students' class schedules, event plans, and shuttle availability, it ensures timely travel and eliminates the guesswork of campus transportation.
 
