@@ -1,4 +1,5 @@
 # ShuttleSmart
 
 ## Problem Statement  
-As cyber threats continue to evolve, many organizations struggle to safeguard sensitive information and maintain secure systems. My goal is to develop innovative solutions and tools that enhance cybersecurity and help organizations stay ahead of emerging threats. 
+College students often struggle to manage their transportation schedules with the school shuttle service. This challenge arises because shuttle schedules are not tailored to individual class times or living locations, leading to missed classes, unnecessary waiting times, or confusion about stop timings. Existing solutions, like static shuttle timetables or generic apps, fail to consider personalized student schedules or provide real-time updates for events and off-cycle routes. This inefficiency can result in increased stress, wasted time, and reduced academic focus for students.
+
